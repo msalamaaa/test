@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <odoo>
     <data>
+#dfdfdsf
         <record id="view_product_template_custom" model="ir.ui.view">
         <field name="name">product.template.product.form.inherited</field>
         <field name="model">product.template</field>
